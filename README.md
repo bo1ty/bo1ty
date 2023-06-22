@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bo1ty
+- 👀 I’m interested in OS dev & fast JS frameworks
+- 🌱 I’m currently learning C and assembly
+- 📫 Discord: flashybolt
